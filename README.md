@@ -1,7 +1,7 @@
 ### Ciao 👋, I'm Marzia!
 
 ---
-<h3 align="center">🧴🫖🫧🎧🪞🦢</h3>
+align="center">🧴🫖🫧🎧🪞🦢
 <h3 align="center"><em>Currently exploring the intersections between technology and languages</em></h3>
 ---
 
