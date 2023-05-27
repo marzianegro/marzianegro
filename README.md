@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center"><em><i class="fa-duotone fa-spinner fa-spin-pulse" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>Currently exploring the intersections between technology and languages</em></h3>
+<h3 align="center"><em><i class="fa-duotone fa-spinner" style="--fa-primary-color: #ffffff; --fa-secondary-color: #ffffff;"></i>Currently exploring the intersections between technology and languages</em></h3>
 
 ---
 
