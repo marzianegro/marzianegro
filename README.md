@@ -21,7 +21,7 @@
 	<p align="left">
 	[![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 	</p>
-	<p aligh="right">
+	<p align="right">
 	| Project         | Score       |
 	| -----------     | ----------- |
 	| `push_swap`     | [![mnegro's 42 push_swap Score](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/project/3053431)](https://github.com/JaeSeoKim/badge42) |
