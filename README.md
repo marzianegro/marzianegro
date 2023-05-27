@@ -1,4 +1,4 @@
-### Ciao 👋🏻, I'm Marzia!
+<h3 Ciao 👋🏻, I'm Marzia! </h3>
 
 ---
 
@@ -6,15 +6,17 @@
 
 ---
 
-## About me
-- 🏁 I'm a language enthusiast
-	- Proficient in Italian (mother tongue), English, and French, and I also know some German
-	- I'm currently learning Japanese as an autodidact!
-- 🐱 I'm a die-hard cat lover
+## 🙇🏻‍♀️ About me
+🐱 - Die-hard cat lover
+🎨 - Immersing myself in good books
+🗣️ - Language enthusiast
+	🎓 - Proficient in Italian (mother tongue), English, and French + I know some German
+	🎌 - Currently learning Japanese as an autodidact
 
-## Coding
-- 🌱 I'm currently learning the C language at 42 Firenze Luiss
-- 🔭 I’m currently working on the Common Core's project 'so_long'
+## 👩🏻‍💻 Coding
+🌱 - Learning the C language at 42 Firenze Luiss
+🔭 - Currently working on the Common Core's project `so_long`
+⬇️ Here's my stats
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 
 <!--
