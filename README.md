@@ -1,8 +1,8 @@
 ### Ciao 👋, I'm Marzia!
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <h3 align="center"><em>Currently exploring the intersections between technology and languages</em></h3>
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - -- - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 - 🗣️ I'm a language enthusiast, proficient in Italian (mother tongue), English, and French. I also know some German and am currently learning Japanese as an autodidact!
 - 🔭 I’m currently working on **the Common Core's projects at 42 Firenze Luiss and learning the C language** 
