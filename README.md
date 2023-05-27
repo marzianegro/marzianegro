@@ -7,7 +7,7 @@
 ---
 
 ## 🙇🏻‍♀️ About me
-* 🐱 Die-hard cat lover
+* 🐈 Die-hard cat lover
 * 🎨 Immersing myself in good books
 * 🪪 Language passport
 	* 🎓 Proficient in Italian (mother tongue), English (C1), French (B2), and German (B2)
