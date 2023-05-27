@@ -12,6 +12,7 @@
 * 🪪 Language passport
 	* 🎓 Proficient in Italian (mother tongue), English (C1), French (B2), and German (B2)
 	* 🎌 Currently learning Japanese as an autodidact
+* 👾 Always been a nerd, so decided to give coding a go
 
 ## 👩🏻‍💻 Coding
 * 🌱 Learning the C language at 42 Firenze Luiss
