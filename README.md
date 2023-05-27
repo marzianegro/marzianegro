@@ -6,10 +6,12 @@
 
 ---
 
-* 🗣️ I'm a language enthusiast, proficient in Italian (mother tongue), English, and French. I also know some German and am currently learning Japanese as an autodidact!
-* 🔭 I’m currently working on **the Common Core's projects at 42 Firenze Luiss and learning the C language** 
-* 🐱 Fun fact **I'm a die-hard cat lover**
-<i class="fa-duotone fa-spinner" style="--fa-primary-color: #ffffff; --fa-secondary-color: #ffffff;"></i>
+- 🌱 I'm currently learning the C language at 42 Firenze Luiss
+- 🔭 I’m currently working on the Common Core's project 'so_long'
+- 🏁 I'm a language enthusiast
+	- Proficient in Italian (mother tongue), English, and French, and I also know some German
+	- I'm currently learning Japanese as an autodidact!
+- 🐱 I'm a die-hard cat lover
 
 <!--
 **marzianegro/marzianegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
