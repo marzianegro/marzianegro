@@ -14,7 +14,7 @@
 	* 🎌 Currently learning Japanese as an autodidact
 
 ## 👩🏻‍💻 Coding
-🌱 * Learning the C language at 42 Firenze Luiss
+* 🌱 Learning the C language at 42 Firenze Luiss
 * 🔭 Currently working on the Common Core's project `so_long`
 * ⬇️ Here's my stats
 
