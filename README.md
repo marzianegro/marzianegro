@@ -17,7 +17,7 @@
 ## 👩🏻‍💻 Coding
 * 🌱 Learning the C language at 42 Firenze Luiss
 * 🔭 Currently working on the Common Core's project `so_long`
-* 🗂️ Here's some material you might find helpful https://ko-fi.com/mnegro
+* 🗂️ While studying, I made some stuff you might find helpful https://ko-fi.com/mnegro/shop
 * ⬇️ Here's my stats and completed projects
 
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
