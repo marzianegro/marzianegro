@@ -2,8 +2,8 @@
 
 ---
 
-<h4 align="center"><em>It's otterly nice to see you here</em></h4>
-<p align="center">
+<h4 align="left"><em>It's otterly nice to see you</em></h4>
+<p align="right">
   <img src="https://media.giphy.com/media/v0YiARQxj1yc8/giphy.gif" alt="animated"/>
 </p>
 
