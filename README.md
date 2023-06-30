@@ -1,7 +1,8 @@
 ## Ciao 👋🏻, I'm Marzia!
 
 ---
-
+Otterly nice to see you!
+![[Alt Text]](https://media.giphy.com/media/v0YiARQxj1yc8/giphy.gif)
 ---
 
 ## 🙇🏻‍♀️ About me
