@@ -2,7 +2,7 @@
 
 ## 🙇🏻‍♀️ About me
 * 🐈 Cat lover
-* 🪪 Language passport
+* 🛂 Language passport
 	* 🎓 Italian (mother tongue), English (C1), French (B2), German (B2)
 	* 🇯🇵 Currently learning Japanese as an autodidact
 
