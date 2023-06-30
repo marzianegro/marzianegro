@@ -1,10 +1,12 @@
 ## Ciao 👋🏻, I'm Marzia!
 
 ---
+
 <h4 align="center"><em>Otterly nice to see you!</em></h4>
 <p align="center">
   <img src="https://media.giphy.com/media/v0YiARQxj1yc8/giphy.gif" alt="animated"/>
 </p>
+
 ---
 
 ## 🙇🏻‍♀️ About me
