@@ -1,5 +1,11 @@
 ## Ciao 👋🏻, I'm Marzia!
 
+---
+
+![Alt Text](<iframe src="https://giphy.com/embed/7Kp3W7KmRZuN2" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/otter-7Kp3W7KmRZuN2">via GIPHY</a></p>)
+
+---
+
 ## 🙇🏻‍♀️ About me
 * 🐈 Cat lover
 * 🛂 Language passport
