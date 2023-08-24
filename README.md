@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 Coding
 * 🌱 Currently learning C/C++ at 42Firenze Luiss
-* 🔭 Currently working on the Common Core's projects `philosophers` and `minishell`
+* 🔭 Currently working on the Common Core's project `minishell`
 * 🗂️ Here's some programming material I made, that you might find helpful https://ko-fi.com/mnegro/shop
 * ⬇️ My stats and completed projects
 
