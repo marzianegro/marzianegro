@@ -15,13 +15,14 @@
 ## 👩🏻‍💻 Coding
 * 🌱 Currently learning C/C++ at 42Firenze Luiss
 * 🔭 Currently working on the Common Core's project `minishell`
-* 🗂️ Here's some programming material I made, that you might find helpful https://ko-fi.com/mnegro/shop
 * ⬇️ My stats and completed projects
 
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 
 | Project         | Score       |
 | -----------     | ----------- |
+| `minishell`     | ...         |
+| `philosophers`  | [![mnegro's 42 philosophers Score](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/project/3057485)](https://github.com/JaeSeoKim/badge42) |
 | `so_long`       | [![mnegro's 42 so_long Score](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/project/3057485)](https://github.com/JaeSeoKim/badge42) |
 | `push_swap`     | [![mnegro's 42 push_swap Score](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/project/3053431)](https://github.com/JaeSeoKim/badge42) |
 | `minitalk`      | [![mnegro's 42 minitalk Score](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/project/3028848)](https://github.com/JaeSeoKim/badge42) |
@@ -35,5 +36,6 @@
 
 <h4 align="center"><em>Currently exploring the intersections between technology and languages</em></h4>
 * 👾 Always been a nerd, so decided to give coding a go
+* 🗂️ Here's some programming material I made, that you might find helpful https://ko-fi.com/mappuccino/shop
 
 -->
