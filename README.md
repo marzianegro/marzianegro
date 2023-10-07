@@ -19,17 +19,17 @@
 
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 
-|     Project     |    Score    |
+| Project         | Score       |
 | -----------     | ----------- |
-| `minishell`     |     101     |
-| `philosophers`  |     100     |
-| `so_long`       |     125     |
-| `push_swap`     |     100     |
-| `minitalk`      |     100     |
-| `born2beroot`   |     125     |
-| `get_next_line` |     125     |
-| `ft_printf`     |     100     |
-| `libft`         |     102     |
+| `minishell`     | 101/100     |
+| `philosophers`  | 100/100     |
+| `so_long`       | 125/125     |
+| `push_swap`     | 100/100     |
+| `minitalk`      | 100/100     |
+| `born2beroot`   | 125/125     |
+| `get_next_line` | 125/125     |
+| `ft_printf`     | 100/100     |
+| `libft`         | 102/125     |
 
 <!--
 **marzianegro/marzianegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
