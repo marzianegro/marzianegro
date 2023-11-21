@@ -14,13 +14,14 @@
 
 ## 👩🏻‍💻 Coding
 * 🌱 Currently learning C/C++ at 42Firenze Luiss
-* 🔭 Currently working on the Common Core's project `cub3d`
+* 🔭 Currently working on the Common Core's `CPP` modules
 * ⬇️ My stats and completed projects
 
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 
 | Project         | Score       |
 | -----------     | ----------- |
+| `cub3d`         | 105/100     |
 | `minishell`     | 101/100     |
 | `philosophers`  | 100/100     |
 | `so_long`       | 125/125     |
