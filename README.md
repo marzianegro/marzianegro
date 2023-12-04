@@ -6,7 +6,7 @@
 </p>
 
 ## 👩🏻‍💻 What's brewing in the coding cauldron?
-* 🌱 Currently learning C/C++ at 42Firenze Luiss
+* 🌱 Currently learning **C**/**C++** at 42Firenze Luiss
 * 🔭 Currently working on the Common Core's `CPP` modules
 * 🍳 Stirring up a blend of skills, including
 
