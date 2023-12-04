@@ -7,10 +7,8 @@
 
 
 ## 🙇🏻‍♀️ About me
-* 🐈 Cat lover
-* 🛂 Language passport
-	* 🎓 Italian (mother tongue), English (C1), French (B2), German (B2)
-	* 🇯🇵 Currently learning Japanese as an autodidact
+I'm a cat lover and language enthusiast. My linguistic repertoire includes Italian as my mother tongue, proficiency in English (C1), conversational skills in French (B2), and adeptness in German (B2). Presently, I'm immersed in the fascinating journey of self-learning Japanese 🇯🇵
+
 
 ## 👩🏻‍💻 Coding
 * 🌱 Currently learning C/C++ at 42Firenze Luiss
@@ -18,8 +16,16 @@
 * 🍳 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
-<!-- * ⬇️ My stats and completed projects
 
+<!-- * 
+<h4 align="center"><em>Currently exploring the intersections between technology and languages</em></h4>
+
+* 🐈 Cat lover
+* 🛂 Language passport
+	* 🎓 Italian (mother tongue), English (C1), French (B2), German (B2)
+	* 🇯🇵 Currently learning Japanese as an autodidact
+
+⬇️ My stats and completed projects
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
 
 | Project         | Score       |
@@ -35,10 +41,9 @@
 | `ft_printf`     | 100/100     |
 | `libft`         | 102/125     |
 
-**marzianegro/marzianegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h4 align="center"><em>Currently exploring the intersections between technology and languages</em></h4>
 * 👾 Always been a nerd, so decided to give coding a go
 * 🗂️ Here's some programming material I made, that you might find helpful https://ko-fi.com/mappuccino/shop
 
+**marzianegro/marzianegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
