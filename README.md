@@ -5,14 +5,14 @@
   <img src="https://media.giphy.com/media/v0YiARQxj1yc8/giphy.gif" alt="animated"/>
 </p>
 
-## 👀 What's brewing in the coding cauldron?
+## 👩🏻‍💻 What's brewing in the coding cauldron?
 * 🌱 Currently learning **C**/**C++** at 42Firenze Luiss
 * 🔭 Currently working on the Common Core's `CPP` modules
 * 🍳 Stirring up a blend of skills, including
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
 
-## 👩🏻‍💻 Behind the screen
+## 👀 Behind the screen
 I'm an avid reader, cat lover, and music enthusiast. A polyglot at heart, I speak Italian (mother tongue), English (C1), and French/German (B2), and I'm currently self-studying Japanese. Join me on this diverse journey! 📚🐱🌐
 
 <!-- * 
