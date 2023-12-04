@@ -12,7 +12,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
 
-## 🙇🏻‍♀️ Behind the screen
+## 🙇🏻‍♀️ `whoami` behind the screen
 I'm also a **cat lover** extraordinaire and **language enthusiast**! My linguistic repertoire includes Italian as my mother tongue, proficiency in English (C1), conversational skills in French (B2), and adeptness in German (B2). Presently, I'm immersed in the fascinating journey of self-learning Japanese 🇯🇵
 
 <!-- * 
