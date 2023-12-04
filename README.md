@@ -13,8 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
 
 ## 👀 Behind the screen
-`whoami`? I'm interested in anime & manga, a cat lover extraordinaire, and language enthusiast!
-My linguistic repertoire currently includes Italian as my mother tongue, proficiency in English (C1), conversational skills in French (B2), and adeptness in German (B2). However, I'm presently immersed in the fascinating journey of self-learning Japanese 🇯🇵
+I'm a manga and anime enthusiast, an avid reader, a cat lover, and a passionate music enthusiast. A polyglot at heart, I speak Italian (mother tongue), English (C1), and French/German (B2), but I'm currently self-studying Japanese.
 
 <!-- * 
 <h4 align="center"><em>Currently exploring the intersections between technology and languages</em></h4>
