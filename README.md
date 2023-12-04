@@ -1,4 +1,4 @@
-## Hi 👋, it's Märzi!
+## Hi 👋, it's Marzia!
 
 <h4 align="center"><em>Otterly nice to see you!</em></h4>
 <p align="center">
