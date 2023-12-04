@@ -17,7 +17,7 @@
 * 🔭 Currently working on the Common Core's `CPP` modules
 * 🍳 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
 <!-- * ⬇️ My stats and completed projects
 
 [![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
