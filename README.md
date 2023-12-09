@@ -15,6 +15,8 @@
 ## 👀 Behind the screen
 I'm an avid reader, cat lover, and music enthusiast. A polyglot at heart, I speak Italian (mother tongue), English (C1), and French/German (B2), and I'm currently self-studying Japanese. Join me on this diverse journey! 📚🐱🌐
 
+![mnegro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnegro&theme=gruvbox_light_icons=true)
+
 <!-- * 
 <h4 align="center"><em>Currently exploring the intersections between technology and languages</em></h4>
 
