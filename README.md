@@ -7,7 +7,7 @@
 
 ## 👩🏻‍💻 What's brewing in the coding cauldron?
 * 🌱 Currently learning C/C++ at 42Firenze Luiss
-* 🔭 Currently working on the Common Core's `CPP` modules
+* 🔭 Currently working on the Common Core's `ft_irc` project
 * 🍳 Stirring up a blend of skills, including
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,github,linux,vim,vscode)](https://skillicons.dev)
