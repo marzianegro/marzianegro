@@ -10,7 +10,7 @@
 * 🔭 Currently working on the Common Core's `ft_irc` project
 * 🍳 Stirring up a blend of skills, including
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,github,linux,mysql,vim,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,dotnet,github,linux,mysql,vim,visualstudio,vscode)](https://skillicons.dev)
 
 ## 👀 Behind the screen
 I'm an avid reader, cat lover, and music enthusiast. A polyglot at heart, I speak Italian (mother tongue), English (C1), and French/German (B2), and I'm currently self-studying Japanese. Join me on this diverse journey! 📚🐱🌐
