@@ -21,24 +21,6 @@ I'm an avid reader, cat lover, and music enthusiast. A polyglot at heart, I spea
 * 🛂 Language passport
 	* 🎓 Italian (mother tongue), English (C1), French (B2), German (B2)
 	* 🇯🇵 Currently learning Japanese as an autodidact
-
-⬇️ My stats and completed projects
-[![mnegro's 42 stats](https://badge42.vercel.app/api/v2/clhypeekx004508mlla98wjfp/stats?cursusId=21&coalitionId=284)](https://github.com/JaeSeoKim/badge42)
-
-| Project         | Score       |
-| -----------     | ----------- |
-| `cub3d`         | 105/100     |
-| `minishell`     | 101/100     |
-| `philosophers`  | 100/100     |
-| `so_long`       | 125/125     |
-| `push_swap`     | 100/100     |
-| `minitalk`      | 100/100     |
-| `born2beroot`   | 125/125     |
-| `get_next_line` | 125/125     |
-| `ft_printf`     | 100/100     |
-| `libft`         | 102/125     |
-
-
 * 👾 Always been a nerd, so decided to give coding a go
 * 🗂️ Here's some programming material I made, that you might find helpful https://ko-fi.com/mappuccino/shop
 
