@@ -6,8 +6,7 @@
 </p>
 
 ## 👩🏻‍💻 What's brewing in the coding cauldron?
-* 🌱 Currently learning C/C++ at 42Firenze Luiss
-* 🔭 Currently working on the Common Core's `ft_transcendence` project
+* 🌱 Currently learning C-family languages
 * 🍳 Stirring up a blend of skills, including
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,cs,dotnet,github,linux,vim,visualstudio,vscode)](https://skillicons.dev)
